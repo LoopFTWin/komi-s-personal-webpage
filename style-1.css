@@ -1,0 +1,22 @@
+  body {
+    background-image: url('https://images8.alphacoders.com/105/1058939.png');
+  }
+
+  hr {
+    background-color: transparent;
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 15%;
+    border-width: 5px;
+    margin-left: 0px;
+    margin-right: auto;
+  }
+
+  h3 {
+   color: #990000;
+  }
+  
+  h1 {
+   color: #990000;
+  }
